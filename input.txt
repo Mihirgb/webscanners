@@ -1,0 +1,9 @@
+http://search.gov.in/
+_tcp.google.com
+_tls.google.com
+_domainkey.google.com
+_caldav._tcp.google.com
+_ldap._tcp.google.com
+_telnet._tcp.google.com
+http://portal.mhra.gov.uk/
+http://online.dudley.gov.uk/
